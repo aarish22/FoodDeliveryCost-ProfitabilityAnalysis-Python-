@@ -38,6 +38,7 @@ The dataset used in this analysis consists of food delivery orders, including de
 
 ## Visualization
 - **Profit Distribution**: The histogram shows a wide distribution of profit per order, with a notable number of orders resulting in a loss.
+![Profit Distribution](https://github.com/aarish22/FoodDeliveryCost-ProfitabilityAnalysis-Python-/blob/main/Plots/profitdistributionperorder.png)
 - **Cost Breakdown**: The pie chart illustrates the proportion of total costs, highlighting the significant impact of discounts.
 - **Profitability Comparison**: KDE plots compare actual vs. simulated profitability, showing the potential improvement with recommended rates.
 
